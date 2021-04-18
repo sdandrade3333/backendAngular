@@ -1,0 +1,17 @@
+{
+"produtos":[
+{
+  "id": 1,
+  "nome": "Curso de angular",
+  "validade": "2021-12-31",
+  "proco": 550.5
+ },
+ {
+  "id": 2,
+  "nome": "Curso de angular",
+  "validade": "2021-12-31",
+  "proco": 590.5
+ }
+ 
+]
+}
